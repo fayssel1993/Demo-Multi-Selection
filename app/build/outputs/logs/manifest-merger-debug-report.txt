@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/aa2ed57ed60302d0add6d7c7b00630ef/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha02] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/22889ec00005f66344dac2b037678ebc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/recyclerview-selection-1.0.0.aar/f94a71e10e7222b245115f184cd6acb8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/52dc83ed2a6ea68375a18dd09591a9ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha04] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/54429219e28278c439bb936a4e9594e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/ec8db73850cc0ee8b9fd4654824d83bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/c5486903b42fcbd7ce72e50a3859c9a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/8c74698bf03527c37565f12342105c98/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9861951495633b6add33ed3ec076f04c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cc9a1cc8e314ca6aeb4583337eaa6a60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/87bb1a3e45c1a5178f905d5bff600fc3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha04] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/9b5b02fd9956165d4a054e41408d10f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/120cc5c2820bf63191d183bfeab09a4b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/27343c2947395d5a2ffe6988d7fc28e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/2f745910e89a09bb7f329b4723ad4437/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/d44ae224cf48172be260a366299b5024/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/ee7533a8c0dc406411bf561df255bc8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/3b9b690863200d88be6cd6281496b468/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/af6677d42cf88335a01818051c510caa/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/217e38ccf9a0f40c661b2fe4736eff5a/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/2ef5a6b171331904d699689eaddf2b72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-bundle:1.0.0-alpha01] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/f5d8649a16025524d5b3f08cf26f8bb3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/795833f57f3ca01d30ac251422c1cd7e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e337cb5c6d74204ed3242321e6a937f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/c9d1882fb4f89a5ab271a3d66222c3eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e674b456d1b0c2b09b165ef1e4b1ba78/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/341b07c8543e58036f5d295ef954d3a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/55c99db57b6c454cf3f1e3363ef1eceb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/d03d809e270158f678a47c2bbd13f4a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/d5acfb87cc85f6dc13b7e0376029b569/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha02.aar/df0a7de08102e343bc11f7afbdc28fc3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/aa2ed57ed60302d0add6d7c7b00630ef/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/aa2ed57ed60302d0add6d7c7b00630ef/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/af6677d42cf88335a01818051c510caa/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/af6677d42cf88335a01818051c510caa/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/217e38ccf9a0f40c661b2fe4736eff5a/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/217e38ccf9a0f40c661b2fe4736eff5a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha04] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/af6677d42cf88335a01818051c510caa/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.faysselyabahddou.demomultiselection.MainActivity
+ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/aa2ed57ed60302d0add6d7c7b00630ef/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/aa2ed57ed60302d0add6d7c7b00630ef/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha02] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/22889ec00005f66344dac2b037678ebc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha02] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/22889ec00005f66344dac2b037678ebc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/recyclerview-selection-1.0.0.aar/f94a71e10e7222b245115f184cd6acb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/recyclerview-selection-1.0.0.aar/f94a71e10e7222b245115f184cd6acb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/52dc83ed2a6ea68375a18dd09591a9ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/52dc83ed2a6ea68375a18dd09591a9ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha04] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/54429219e28278c439bb936a4e9594e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha04] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/54429219e28278c439bb936a4e9594e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/ec8db73850cc0ee8b9fd4654824d83bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/ec8db73850cc0ee8b9fd4654824d83bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/c5486903b42fcbd7ce72e50a3859c9a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/c5486903b42fcbd7ce72e50a3859c9a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/8c74698bf03527c37565f12342105c98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/8c74698bf03527c37565f12342105c98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9861951495633b6add33ed3ec076f04c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9861951495633b6add33ed3ec076f04c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cc9a1cc8e314ca6aeb4583337eaa6a60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cc9a1cc8e314ca6aeb4583337eaa6a60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/87bb1a3e45c1a5178f905d5bff600fc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/87bb1a3e45c1a5178f905d5bff600fc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha04] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/9b5b02fd9956165d4a054e41408d10f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha04] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/9b5b02fd9956165d4a054e41408d10f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/120cc5c2820bf63191d183bfeab09a4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/120cc5c2820bf63191d183bfeab09a4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/27343c2947395d5a2ffe6988d7fc28e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/27343c2947395d5a2ffe6988d7fc28e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/2f745910e89a09bb7f329b4723ad4437/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/2f745910e89a09bb7f329b4723ad4437/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/d44ae224cf48172be260a366299b5024/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/d44ae224cf48172be260a366299b5024/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/ee7533a8c0dc406411bf561df255bc8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/ee7533a8c0dc406411bf561df255bc8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/3b9b690863200d88be6cd6281496b468/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/3b9b690863200d88be6cd6281496b468/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/af6677d42cf88335a01818051c510caa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/af6677d42cf88335a01818051c510caa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/217e38ccf9a0f40c661b2fe4736eff5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/217e38ccf9a0f40c661b2fe4736eff5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/2ef5a6b171331904d699689eaddf2b72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/2ef5a6b171331904d699689eaddf2b72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-bundle:1.0.0-alpha01] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/f5d8649a16025524d5b3f08cf26f8bb3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-bundle:1.0.0-alpha01] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/f5d8649a16025524d5b3f08cf26f8bb3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/795833f57f3ca01d30ac251422c1cd7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/795833f57f3ca01d30ac251422c1cd7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e337cb5c6d74204ed3242321e6a937f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e337cb5c6d74204ed3242321e6a937f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/c9d1882fb4f89a5ab271a3d66222c3eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/c9d1882fb4f89a5ab271a3d66222c3eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e674b456d1b0c2b09b165ef1e4b1ba78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e674b456d1b0c2b09b165ef1e4b1ba78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/341b07c8543e58036f5d295ef954d3a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/341b07c8543e58036f5d295ef954d3a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/55c99db57b6c454cf3f1e3363ef1eceb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/55c99db57b6c454cf3f1e3363ef1eceb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/d03d809e270158f678a47c2bbd13f4a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/d03d809e270158f678a47c2bbd13f4a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/d5acfb87cc85f6dc13b7e0376029b569/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/d5acfb87cc85f6dc13b7e0376029b569/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha02.aar/df0a7de08102e343bc11f7afbdc28fc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] /Users/faysselyabahddou/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha02.aar/df0a7de08102e343bc11f7afbdc28fc3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+		ADDED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/faysselyabahddou/AndroidStudioProjects/Demos/DemoMultiSelection/app/src/main/AndroidManifest.xml
